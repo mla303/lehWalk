@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "414028457174",
+    "project_id": "lehwalk",
+    "storage_bucket": "lehwalk.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:414028457174:android:44ad9fa30dce538f571577",
+        "android_client_info": {
+          "package_name": "com.lehwalk.lehwalk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "414028457174-5ltiv2vbvovvmoflgc4lh0qequcfncpt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.lehwalk.lehwalk",
+            "certificate_hash": "c4db70b533c245620556451ae6150b6d0b4f1430"
+          }
+        },
+        {
+          "client_id": "414028457174-uf2muqi9vsvg8ua60h37bicrdnltjjv1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRYugfqtbZuYmJ5tDlXQSCzfYDwRAmzRI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "414028457174-uf2muqi9vsvg8ua60h37bicrdnltjjv1.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "414028457174-u81qte0ihsup8cm9mtnj035ebfmlpjs2.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.lehwalk.lehwalk"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

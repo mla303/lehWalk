@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="045ccbf3-716a-49f2-bdfa-222043cdd81e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1mdjh5XZN57F8iYXoT8cKcBZdNO" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="TERMINAL_CUSTOM_COMMANDS_GOT_IT" value="true" />
+    <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="io.flutter.reload.alreadyRun" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/android/app" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Flutter-Multi-City(v__1.2)\Mobile Source\Flutter-Multi-City\lib" />
+      <recent name="D:\Flutter-Multi-City(v__1.2)\Mobile Source\Flutter-Multi-City\android" />
+      <recent name="D:\Flutter-Multi-City(v__1.2)\Mobile Source\Flutter-Multi-City\lib\ui\gallery" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Flutter\LehWalk\android\app" />
+      <recent name="D:\Flutter-Multi-City(v__1.2)\Mobile Source\Flutter-Multi-City\assets\images" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="main.dart" type="FlutterRunConfigurationType" factoryName="Flutter" nameIsGenerated="true">
+      <option name="filePath" value="$PROJECT_DIR$/lib/main.dart" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\M Luqman Asif\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="045ccbf3-716a-49f2-bdfa-222043cdd81e" name="Default Changelist" comment="" />
+      <created>1609830477808</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1609830477808</updated>
+    </task>
+    <task id="LOCAL-00001" summary="final commit">
+      <created>1609858200190</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1609858200190</updated>
+    </task>
+    <task id="LOCAL-00002" summary="jason file added">
+      <created>1611050329111</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1611050329111</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="final commit" />
+    <MESSAGE value="jason file added" />
+    <option name="LAST_COMMIT_MESSAGE" value="jason file added" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="845" y="383" key="#Notifications" timestamp="1609833249233">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="845" y="383" key="#Notifications/0.0.1920.1040@0.0.1920.1040" timestamp="1609833249233" />
+    <state x="689" y="310" key="#com.intellij.ide.util.TreeFileChooserDialog" timestamp="1609832390350">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="689" y="310" key="#com.intellij.ide.util.TreeFileChooserDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1609832390350" />
+    <state x="652" y="256" key="#main.dart" timestamp="1609832394363">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="652" y="256" key="#main.dart/0.0.1920.1040@0.0.1920.1040" timestamp="1609832394363" />
+    <state x="100" y="100" width="1720" height="840" key="AVDManager" timestamp="1609831237595">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="100" y="100" width="1720" height="840" key="AVDManager/0.0.1920.1040@0.0.1920.1040" timestamp="1609831237595" />
+    <state x="208" y="0" key="CommitChangelistDialog2" timestamp="1611050324859">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="208" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1611050324859" />
+    <state x="293" y="95" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1609858198087" />
+    <state x="739" y="262" key="FileChooserDialogImpl" timestamp="1609832180665">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="739" y="262" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1609832180665" />
+    <state x="778" y="424" key="Github.ShareDialog" timestamp="1609855011569">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="778" y="424" key="Github.ShareDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1609855011569" />
+    <state x="408" y="222" key="Github.UntrackedFilesDialog" timestamp="1609855049818">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="408" y="222" key="Github.UntrackedFilesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1609855049818" />
+    <state width="1877" height="279" key="GridCell.Tab.0.bottom" timestamp="1609913592128">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="279" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1609913592128" />
+    <state width="1877" height="279" key="GridCell.Tab.0.center" timestamp="1609913592127">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="279" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1609913592127" />
+    <state width="1877" height="279" key="GridCell.Tab.0.left" timestamp="1609913592127">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="279" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1609913592127" />
+    <state width="1877" height="279" key="GridCell.Tab.0.right" timestamp="1609913592128">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="279" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1609913592128" />
+    <state x="326" y="0" key="SettingsEditor" timestamp="1611051406995">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="326" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1611051406995" />
+    <state x="461" y="165" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1609830514433" />
+    <state x="209" y="181" key="Vcs.Push.Dialog.v2" timestamp="1611050455431">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="209" y="181" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1611050455431" />
+    <state x="294" y="259" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1609858223937" />
+    <state x="667" y="119" width="585" height="801" key="find.popup" timestamp="1609845366170">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="667" y="119" width="585" height="801" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1609845366170" />
+  </component>
+</project>
