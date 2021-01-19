@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="045ccbf3-716a-49f2-bdfa-222043cdd81e" name="Default Changelist" comment="" />
+    <list default="true" id="045ccbf3-716a-49f2-bdfa-222043cdd81e" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.flutter-plugins-dependencies" beforeDir="false" afterPath="$PROJECT_DIR$/.flutter-plugins-dependencies" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Dart_Packages.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Dart_Packages.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Flutter_Plugins.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Flutter_Plugins.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/google-services.json" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/google-services.json" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -114,21 +120,25 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="408" y="222" key="Github.UntrackedFilesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1609855049818" />
-    <state width="1877" height="279" key="GridCell.Tab.0.bottom" timestamp="1609913592128">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="1306" height="174" key="GridCell.Tab.0.bottom" timestamp="1611054777169">
+      <screen x="0" y="0" width="1366" height="728" />
     </state>
+    <state width="1306" height="174" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1611054777169" />
     <state width="1877" height="279" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1609913592128" />
-    <state width="1877" height="279" key="GridCell.Tab.0.center" timestamp="1609913592127">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="1306" height="174" key="GridCell.Tab.0.center" timestamp="1611054777169">
+      <screen x="0" y="0" width="1366" height="728" />
     </state>
+    <state width="1306" height="174" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1611054777169" />
     <state width="1877" height="279" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1609913592127" />
-    <state width="1877" height="279" key="GridCell.Tab.0.left" timestamp="1609913592127">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="1306" height="174" key="GridCell.Tab.0.left" timestamp="1611054777168">
+      <screen x="0" y="0" width="1366" height="728" />
     </state>
+    <state width="1306" height="174" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1611054777168" />
     <state width="1877" height="279" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1609913592127" />
-    <state width="1877" height="279" key="GridCell.Tab.0.right" timestamp="1609913592128">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="1306" height="174" key="GridCell.Tab.0.right" timestamp="1611054777169">
+      <screen x="0" y="0" width="1366" height="728" />
     </state>
+    <state width="1306" height="174" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1611054777169" />
     <state width="1877" height="279" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1609913592128" />
     <state x="326" y="0" key="SettingsEditor" timestamp="1611051406995">
       <screen x="0" y="0" width="1366" height="728" />

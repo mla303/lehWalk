@@ -48,6 +48,42 @@
           ]
         }
       }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:414028457174:android:6750743bedbf5a9c571577",
+        "android_client_info": {
+          "package_name": "com.panaceasoft.lehwalk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "414028457174-uf2muqi9vsvg8ua60h37bicrdnltjjv1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRYugfqtbZuYmJ5tDlXQSCzfYDwRAmzRI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "414028457174-uf2muqi9vsvg8ua60h37bicrdnltjjv1.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "414028457174-u81qte0ihsup8cm9mtnj035ebfmlpjs2.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.lehwalk.lehwalk"
+              }
+            }
+          ]
+        }
+      }
     }
   ],
   "configuration_version": "1"
