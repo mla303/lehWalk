@@ -2,11 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="045ccbf3-716a-49f2-bdfa-222043cdd81e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/android/app/key.jks" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.flutter-plugins" beforeDir="false" afterPath="$PROJECT_DIR$/.flutter-plugins" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.flutter-plugins-dependencies" beforeDir="false" afterPath="$PROJECT_DIR$/.flutter-plugins-dependencies" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/libraries/Dart_Packages.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Dart_Packages.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/libraries/Flutter_Plugins.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Flutter_Plugins.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/google-services.json" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/google-services.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.packages" beforeDir="false" afterPath="$PROJECT_DIR$/.packages" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/key.properties" beforeDir="false" afterPath="$PROJECT_DIR$/android/key.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/main.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/main.dart" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,14 +42,14 @@
     <property name="show.migrate.to.gradle.popup" value="false" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Flutter\LehWalk\android\app" />
+      <recent name="D:\Flutter-Multi-City(v__1.2)\Mobile Source\Flutter-Multi-City\assets\images" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\Flutter-Multi-City(v__1.2)\Mobile Source\Flutter-Multi-City\lib" />
       <recent name="D:\Flutter-Multi-City(v__1.2)\Mobile Source\Flutter-Multi-City\android" />
       <recent name="D:\Flutter-Multi-City(v__1.2)\Mobile Source\Flutter-Multi-City\lib\ui\gallery" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="E:\Flutter\LehWalk\android\app" />
-      <recent name="D:\Flutter-Multi-City(v__1.2)\Mobile Source\Flutter-Multi-City\assets\images" />
     </key>
   </component>
   <component name="RunManager">
@@ -78,7 +83,14 @@
       <option name="project" value="LOCAL" />
       <updated>1611050329111</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="jason file added">
+      <created>1611055909400</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1611055909400</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -103,10 +115,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="100" y="100" width="1720" height="840" key="AVDManager/0.0.1920.1040@0.0.1920.1040" timestamp="1609831237595" />
-    <state x="208" y="0" key="CommitChangelistDialog2" timestamp="1611050324859">
+    <state x="208" y="0" key="CommitChangelistDialog2" timestamp="1611055900703">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="208" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1611050324859" />
+    <state x="208" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1611055900703" />
     <state x="293" y="95" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1609858198087" />
     <state x="739" y="262" key="FileChooserDialogImpl" timestamp="1609832180665">
       <screen x="0" y="0" width="1920" height="1040" />
@@ -120,35 +132,35 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="408" y="222" key="Github.UntrackedFilesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1609855049818" />
-    <state width="1306" height="174" key="GridCell.Tab.0.bottom" timestamp="1611054777169">
+    <state width="1306" height="174" key="GridCell.Tab.0.bottom" timestamp="1611056122019">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1306" height="174" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1611054777169" />
+    <state width="1306" height="174" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1611056122019" />
     <state width="1877" height="279" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1609913592128" />
-    <state width="1306" height="174" key="GridCell.Tab.0.center" timestamp="1611054777169">
+    <state width="1306" height="174" key="GridCell.Tab.0.center" timestamp="1611056122019">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1306" height="174" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1611054777169" />
+    <state width="1306" height="174" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1611056122019" />
     <state width="1877" height="279" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1609913592127" />
-    <state width="1306" height="174" key="GridCell.Tab.0.left" timestamp="1611054777168">
+    <state width="1306" height="174" key="GridCell.Tab.0.left" timestamp="1611056122018">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1306" height="174" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1611054777168" />
+    <state width="1306" height="174" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1611056122018" />
     <state width="1877" height="279" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1609913592127" />
-    <state width="1306" height="174" key="GridCell.Tab.0.right" timestamp="1611054777169">
+    <state width="1306" height="174" key="GridCell.Tab.0.right" timestamp="1611056122019">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1306" height="174" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1611054777169" />
+    <state width="1306" height="174" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1611056122019" />
     <state width="1877" height="279" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1609913592128" />
     <state x="326" y="0" key="SettingsEditor" timestamp="1611051406995">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="326" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1611051406995" />
     <state x="461" y="165" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1609830514433" />
-    <state x="209" y="181" key="Vcs.Push.Dialog.v2" timestamp="1611050455431">
+    <state x="209" y="181" key="Vcs.Push.Dialog.v2" timestamp="1611055935479">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="209" y="181" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1611050455431" />
+    <state x="209" y="181" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1611055935479" />
     <state x="294" y="259" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1609858223937" />
     <state x="667" y="119" width="585" height="801" key="find.popup" timestamp="1609845366170">
       <screen x="0" y="0" width="1920" height="1040" />

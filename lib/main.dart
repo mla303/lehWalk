@@ -54,7 +54,8 @@ Future<void> main() async {
   // On iOS this is a no-op.
   InAppPurchaseConnection.enablePendingPurchases();
 
-  runApp(EasyLocalization(
+  runApp(
+      EasyLocalization(
       path: 'assets/langs',
       startLocale: PsConfig.defaultLanguage.toLocale(),
       supportedLocales: getSupportedLanguages(),
